@@ -40,9 +40,9 @@ Read your inputs to consider if they could theoretically work
 
 ## Contributing
 
-Please read [CODE_OF_CONDUCT.md](https://github.com/brandonbjs/cs305repo_mod5/blob/main/License.txt) for details on our Community Code of Conduct!
+Please read [CODE_OF_CONDUCT.md](https://github.com/bjs397/cs305_dummyrepo/blob/main/CODE_OF_CONDUCT.MD) for details on our Community Code of Conduct!
 
-Please read [CONTRIBUTING.md](https://github.com/brandonbjs/cs305repo_mod5/blob/main/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/bjs397/cs305_dummyrepo/blob/main/CONTRIBUTING.md) for details on the process for submitting pull requests to us.
 
 ## Authors
 
