@@ -53,5 +53,4 @@ See also the list of [contributors](https://github.com/NAU-OSS/Spring2023_Group8
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/NAU-OSS/Spring2023_Group8/blob/main/License.txt) file for explicit license details.
-Visit [our justification](https://github.com/NAU-OSS/Spring2023_Group8/blob/main/license_justification.md) for the reasons we chose this particular license.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/bjs397/cs305_dummyrepo/blob/main/LICENSE.md) file for explicit license details.
