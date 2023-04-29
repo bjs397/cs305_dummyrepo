@@ -38,6 +38,10 @@ Read your inputs to consider if they could theoretically work
 * Theoretical Coding Software
 * The Human Mind
 
+## UPCOMING NEW FEATURE FOR THE APP
+
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
 ## Contributing
 
 Please read [CODE_OF_CONDUCT.md](https://github.com/bjs397/cs305_dummyrepo/blob/main/CODE_OF_CONDUCT.MD) for details on our Community Code of Conduct!

@@ -23,7 +23,7 @@ Always write a clear log message for your commits. Short descriptions of the com
   * We use camel case rather than using underscores (i.e. variableName instead of variable_name).
   * This is open source software. Consider the people who will read your code, and make it look nice for them.
  
-ADDING INFORMATION TO THIS FILE AS PER PART 3 OF MODULE 5 ASSIGNMENT:
+## ADDING PERSONAL INFORMATION TO THIS FILE AS PER PART 3 OF MODULE 5 ASSIGNMENT:
 Contact: Brandon James Shaffer
 Email: bjs397@nau.edu
 GitHub: brandonbjs
